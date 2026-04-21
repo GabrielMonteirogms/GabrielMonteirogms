@@ -3,7 +3,7 @@
 **`Back-end Developer`**
 
 Welcome. I’m from the countryside of São Paulo. For as long as I can remember, I’ve always been interested in technology and have taken a few courses in the field. I am currently studying Systems Analysis and Development at FATEC in Itu, where I am working to develop my skills in software development, service building, API creation, and databases. My goal is to continue growing and improving my skills so I can contribute to the field.    
-<a href="https://github.com/GabrielMonteirogms?tab=repositories" target="_blank">
+<a href="[https://github.com/GabrielMonteirogms?tab=repositories](https://www.linkedin.com/in/gabriel-monteiro-silva-6b22b5352/)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Thiago Gato" width="25">
 </a>
 
